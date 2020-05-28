@@ -1,0 +1,8 @@
+<suite name="abc">
+    <test name="sample">
+        <classes>
+            <class name="FlightBasics.TestFramework">
+            </class>
+        </classes>
+    </test>
+</suite>

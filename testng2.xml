@@ -1,0 +1,10 @@
+<suite name="sample suite">
+    <parameter name="URL" value="https:google.com"/>
+    <test name="testng sample">
+        <classes>
+            <class name="Junittesting.Hello1"/>
+            <class name="Junittesting.Hello2"/>
+        </classes>
+
+    </test>
+</suite>

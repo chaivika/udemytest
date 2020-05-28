@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="abc" duration-ms="37" started-at="2020-05-28T15:27:52Z" finished-at="2020-05-28T15:27:52Z">
+    <groups>
+    </groups>
+    <test name="sample" duration-ms="37" started-at="2020-05-28T15:27:52Z" finished-at="2020-05-28T15:27:52Z">
+      <class name="FlightBasics.TestFramework">
+        <test-method status="PASS" signature="ayName2()[pri:0, instance:FlightBasics.TestFramework@76b0bfab]" name="ayName2" duration-ms="8" started-at="2020-05-28T15:27:52Z" finished-at="2020-05-28T15:27:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ayName2 -->
+        <test-method status="PASS" signature="myClass()[pri:0, instance:FlightBasics.TestFramework@76b0bfab]" name="myClass" is-config="true" duration-ms="1" started-at="2020-05-28T15:27:52Z" finished-at="2020-05-28T15:27:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myClass -->
+        <test-method status="PASS" signature="myName()[pri:0, instance:FlightBasics.TestFramework@76b0bfab]" name="myName" duration-ms="1" started-at="2020-05-28T15:27:52Z" finished-at="2020-05-28T15:27:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myName -->
+        <test-method status="PASS" signature="myClass()[pri:0, instance:FlightBasics.TestFramework@76b0bfab]" name="myClass" is-config="true" duration-ms="0" started-at="2020-05-28T15:27:52Z" finished-at="2020-05-28T15:27:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myClass -->
+      </class> <!-- FlightBasics.TestFramework -->
+    </test> <!-- sample -->
+  </suite> <!-- abc -->
+</testng-results>
